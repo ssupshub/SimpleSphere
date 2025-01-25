@@ -1,18 +1,3 @@
-# Chennaipy Website
-
-[![Build Status](https://travis-ci.org/Chennaipy/website.svg?branch=master)](https://travis-ci.org/Chennaipy/website)
-
-This is the repo for the Chennai Python User Group's website
-[http://chennaipy.org](http://chennaipy.org). The site is built
-using Pelican, a static site generator, powered by Python. The
-site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanTheme/pure-single).
-
-## Find us
-
-* [Meetup.com](http://www.meetup.com/chennaipy/)
-* [Mailing list](https://mail.python.org/mailman/listinfo/chennaipy)
-* [Twitter](http://twitter.com/chennaipy)
-
 ## Setup for local development
 
 * Fork repo
